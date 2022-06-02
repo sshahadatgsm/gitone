@@ -1,7 +1,5 @@
 four
-<<<<<<< HEAD
-=======
-4 
->>>>>>> main
 4
-arekta dui
+4
+banglay 2
+
